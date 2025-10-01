@@ -5,7 +5,7 @@ My personal repository
 <table>
 <tr>
 <td width="100px">
-  <img src=""[C:\Users\12912\Desktop\images.jpg](https://github.com/1291275301/gufu/blob/main/assets/images.jpg)"" alt="avatar" width="180" style="border-radius: 50%;"/>
+  <img src="https://github.com/1291275301/gufu/blob/main/assets/images.jpg)"" alt="avatar" width="180" style="border-radius: 50%;"/>
 </td>
 <td>
 
