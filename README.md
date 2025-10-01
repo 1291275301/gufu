@@ -1,6 +1,6 @@
 # gufu
 My personal repository
-## 👤 翁俊龙（姓名）
+## 👤 翁俊龙
 
 <table>
 <tr>
