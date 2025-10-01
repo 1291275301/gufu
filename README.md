@@ -25,3 +25,4 @@ My personal repository
 </td>
 </tr>
 </table>
+git push -u origin
